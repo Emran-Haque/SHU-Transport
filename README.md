@@ -8,7 +8,6 @@ Source Code for flutter Live Location Tracker using goooglmap and location packa
 
 
 For Step By Step Guide Follow Video Tutorials:
-- [Flutter Live Location Tracker - Google map and Firebase + Source Code](https://bit.ly/3hlM3Lr)
 
 ## Links used in project:
 
